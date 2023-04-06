@@ -25,7 +25,6 @@ This repository contain a landing page for a Cyber security company called Rocke
 This project was developed with the follow technologies:
 
 - HTML e CSS
-- JavaScript
 - Git & Github
 - Figma
 
